@@ -1,0 +1,142 @@
+[
+    {
+      "description": "¿Cuál de los siguientes NO es un tipo de dato primitivo en JavaScript?",
+      "options": ["Number", "Boolean", "Object", "String"],
+      "correct_answer": 2,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es la forma correcta de declarar una función en JavaScript?",
+      "options": [
+        "function: myFunction()",
+        "func myFunction()",
+        "function myFunction()",
+        "func:myFunction()"
+      ],
+      "correct_answer": 2,
+      "user_answer": null
+    },
+    {
+      "description": "¿Qué método se utiliza para agregar elementos al final de un arreglo en JavaScript?",
+      "options": ["push()", "addToEnd()", "append()", "insertEnd()"],
+      "correct_answer": 0,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cómo se llama el operador de igualdad estricta en JavaScript?",
+      "options": ["==", "===", "=", "!=="],
+      "correct_answer": 1,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el resultado de '5' + 3 en JavaScript?",
+      "options": ["53", "8", "Error", "35"],
+      "correct_answer": 0,
+      "user_answer": null
+    },
+    {
+      "description": "¿Qué palabra clave se utiliza para declarar una variable en JavaScript sin especificar su tipo?",
+      "options": ["let", "var", "const", "auto"],
+      "correct_answer": 1,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el método para eliminar el último elemento de un arreglo en JavaScript?",
+      "options": ["removeLast()", "pop()", "deleteLast()", "sliceLast()"],
+      "correct_answer": 1,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el valor de 'null' en JavaScript?",
+      "options": [
+        "Un número",
+        "Un booleano",
+        "Un objeto vacío",
+        "La ausencia de valor"
+      ],
+      "correct_answer": 3,
+      "user_answer": null
+    },
+    {
+      "description": "¿Qué ciclo se utiliza para iterar sobre las propiedades de un objeto en JavaScript?",
+      "options": ["for", "forEach", "for...in", "while"],
+      "correct_answer": 2,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el operador lógico 'Y' en JavaScript?",
+      "options": ["&&", "||", "!", "&"],
+      "correct_answer": 0,
+      "user_answer": null
+    },
+    {
+      "description": "¿Qué método se utiliza para imprimir un mensaje en la consola?",
+      "options": ["logMessage()", "print()", "console.log()", "displayMessage()"],
+      "correct_answer": 2,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el operador de igualdad en JavaScript que también compara el tipo de datos?",
+      "options": ["==", "===", "!=", "!=="],
+      "correct_answer": 1,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el resultado de 10 * 5 en JavaScript?",
+      "options": ["50", "510", "45", "105"],
+      "correct_answer": 0,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es la palabra clave para declarar una variable en JavaScript?",
+      "options": ["var", "variable", "let", "const"],
+      "correct_answer": 0,
+      "user_answer": null
+    },
+    {
+      "description": "¿Qué método se utiliza para convertir una cadena a minúsculas en JavaScript?",
+      "options": ["toLowerCase()", "toLower()", "lowerCase()", "makeLower()"],
+      "correct_answer": 0,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el valor de 'undefined' en JavaScript?",
+      "options": [
+        "Un número",
+        "Un objeto vacío",
+        "La ausencia de valor",
+        "Una cadena vacía"
+      ],
+      "correct_answer": 2,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el resultado de 4 + '4' en JavaScript?",
+      "options": ["8", "44", "Error", "4 + '4'"],
+      "correct_answer": 1,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el operador lógico 'O' en JavaScript?",
+      "options": ["&&", "||", "!", "|"],
+      "correct_answer": 1,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cuál es el tipo de dato que representa un valor verdadero o falso en JavaScript?",
+      "options": ["Number", "String", "Boolean", "Object"],
+      "correct_answer": 2,
+      "user_answer": null
+    },
+    {
+      "description": "¿Cómo se declara una función flecha en JavaScript?",
+      "options": [
+        "function myFunction() {}",
+        "() => {}",
+        "func myFunction() {}",
+        "var myFunction = () => {}"
+      ],
+      "correct_answer": 1,
+      "user_answer": null
+    }
+  ]
